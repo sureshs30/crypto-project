@@ -1,0 +1,57 @@
+body{
+    background-image:url('image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.navbar-brand{
+    font-family: cursive;
+    color: white !important;
+    font-size: 30px;
+}
+
+.header{
+    background-color: black !important;
+}
+
+.navbar{
+    background-color: black !important;
+}
+
+.nav-link{
+    color:white !important;
+    font-size: 20px;
+    font-display: auto;
+    padding-left: 80px !important;
+
+}
+.head{
+    text-align: right;
+    padding-top: 200px;
+    color:white;
+    font-size: 40px;
+}
+.head1{
+    text-align: right;
+    color:white;
+    padding-right: 100px;
+    font-size: 30px;
+}
+
+
+.d-flex1{
+    padding-left:700px;
+    text-align: center;
+    color:chartreuse;
+    
+}
+.d-flex:hover{
+    background-color: yellow;
+    color:yellow;
+}
+.lower{
+    background-color: black;
+    max-height:500px;
+    max-width: 1024px;
+}
